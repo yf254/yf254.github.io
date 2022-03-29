@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects & Short Essays
 ---
 
 <p>
@@ -24,6 +24,14 @@ Write-ups:
 <p>
 <a href="/Merging_Network">Methodology for Dynamic Apporach Merging Network Theory and Credit Risk Tech</a>
 <p>
-<a href="/Survival_using_DL_with_Medical_Imaging">Survival analysis using Deep Learning and Medical Imaging</a>
+<a href="/Survival_using_DL_with_Medical_Imaging">Survival Analysis using Deep Learning and Medical Imaging</a>
 <p>
-
+<p>
+<strong>Here are some of my (non-academic) short essays:</strong>
+<p>
+CUHK Best Essay Awards:
+<p>
+<a href="https://www.oge.cuhk.edu.hk/oge_media/gef/doc/best_works/1819/02-H-FengYuXiao.pdf">Facing the Dawn of the Era of Artificial Intelligence: In Dialogue with Marx and Rousseau</a>
+<p>
+<a href="https://www.oge.cuhk.edu.hk/oge_media/gef/doc/best_works/1718/13-N-FengYuXiao.pdf">Why Will Artificial Intelligence Replace Humans— or Will It?</a>
+<p>

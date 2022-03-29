@@ -15,7 +15,7 @@ gitment:
     secret: 24823b47a3f7ed2aa0ffc5f3b9f5a4670b46282e
 # Social
 social:
-    weibo: 7605199734
+    #weibo: 7605199734
     github: yf254
     twitter: yuxiao_feng
     mail: yf254@cornell.edu
@@ -37,7 +37,8 @@ cover_color: slate
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Projects, description: archive, url: '/archive'}   
+    - {title: Projects & Short Essays, description: archive, url: '/archive'}  
+#    - {title: Short Essays, descriptin: essay, url:'/essay'} 
  #   - {title: Posts, description: tags, url: '/tags'}      
     - {title: About Me, description: about, url: '/about'}      
     
