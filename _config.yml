@@ -1,11 +1,10 @@
 #base
 title: Yuxiao Feng
 subtitle: An eager yound mind of tomorrow
-description: Welcome to my personal website~
+description: Welcome to my personal space~
 
-# 头像里面的标题
+# avatar
 avatarTitle: Yuxiao Feng
-# 头像里面的描述
 avatarDesc: quant/tech/art
 # Comment
 #comment:
@@ -30,7 +29,7 @@ highlighter: rouge
 textColor: #FF0000
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: clear
+cover_color: slate
 
 # The blog button should not be removed.
 #blog_button:
