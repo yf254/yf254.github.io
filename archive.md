@@ -4,7 +4,7 @@ title: Projects & Short Essays
 ---
 
 <p>
-<strong>Little Projects:</strong>
+<strong>Little Projects</strong>
 <p>
 Finance Related:
 <p>
@@ -27,10 +27,8 @@ Write-ups:
 <a href="/Survival_using_DL_with_Medical_Imaging">Survival Analysis using Deep Learning and Medical Imaging</a>
 <p>
 <br>
-<br>
-<br>
 <p>
-<strong>(Non-academic) Short Essays:</strong>
+<strong>(Non-academic) Short Essays</strong>
 <p>
 CUHK Best Essay Awards:
 <p>
