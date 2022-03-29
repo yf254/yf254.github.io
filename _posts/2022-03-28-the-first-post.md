@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hello World!
+title: About this site
 date: 2022-03-28
 description: 
 tag: general 
 ---   
 
-　　Hi there~ Welcome to my personal website.
+　　Hi there~ I'm Yuxiao. Welcome to my personal website.
  
 
-## Main：
-　It is the first post in this website.
+## About this site：
+　This site is build by jekyll and Github pages. You can find some of my tiny works in school projects and short write-ups here.
