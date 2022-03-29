@@ -16,29 +16,12 @@ gitment:
     secret: 24823b47a3f7ed2aa0ffc5f3b9f5a4670b46282e
 # Social
 social:
- #   weibo: 5548352763
+    weibo: 7605199734
     github: yf254
-    # twitter: 
+    twitter: yuxiao_feng
     mail: yf254@cornell.edu
 
 url: "https://yf254.github.io"
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-#baidu:
-#    id: d50b652a4ac845171344a6bafefd1a03 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-#ga:
- #   id: UA-93926947-1 
-  #  host: auto  
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
 
 permalink: /:year/:month/:title/
 # Format
