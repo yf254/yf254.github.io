@@ -4,9 +4,8 @@ title: About Me
 ---
 
 Hi，I am Yuxiao, an <strong>ORIE</strong> student at Cornell University.
-I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Statistics</strong>.
 <p>
-I am: 
+I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Statistics</strong>.
 <p>
 >* Getting hands dirty with Python, Java and MySql;
 >* Familiar with machine learning and eager to explore more;
