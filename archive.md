@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <p>
-<strong>Here are some of my projects:</strong>
+<strong>Here are some of my little projects:</strong>
 <p>
 Finance Related:
 <p>
@@ -19,5 +19,11 @@ Machine Learning Related:
 Market Related:
 <p>
 <a href="/Policy and Market Trend under COVID-19">Policy and Market Trend under COVID-19</a>
+<p>
+Write-ups:
+<p>
+<a href="/Merging_Network">Methodology for Dynamic Apporach Merging Network Theory and Credit Risk Tech</a>
+<p>
+<a href="/Survival_using_DL_with_Medical_Imaging">Survival analysis using Deep Learning and Medical Imaging</a>
 <p>
 
