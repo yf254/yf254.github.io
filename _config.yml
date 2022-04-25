@@ -37,11 +37,12 @@ cover_color: slate
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Projects & Short Essays, description: archive, url: '/archive'}  
+    - {title: Projects, description: archive, url: '/archive'}  
 #    - {title: Short Essays, descriptin: essay, url:'/essay'} 
  #   - {title: Posts, description: tags, url: '/tags'}      
     - {title: About Me, description: about, url: '/about'}      
     - {title: CV, description: resume, url: '/Resume'}    
+    - {title: Github, description: git, url: 'https://yf254.github.io'}    
     
 
 # Pagination
