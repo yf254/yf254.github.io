@@ -41,6 +41,7 @@ nav:
 #    - {title: Short Essays, descriptin: essay, url:'/essay'} 
  #   - {title: Posts, description: tags, url: '/tags'}      
     - {title: About Me, description: about, url: '/about'}      
+    - {title: CV, description: resume, url: '/Resume'}    
     
 
 # Pagination
