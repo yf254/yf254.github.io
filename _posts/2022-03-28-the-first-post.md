@@ -1,13 +1,13 @@
 ---
 layout: post
-title: About this site
-date: 2022-03-28
+title: Changelog
+date: 2022-04-25
 description: 
 tag: general 
 ---   
 
-　　Hi there~ I'm Yuxiao. Welcome to my personal website.
+　　Add cv and github link on frontpage.
  
 
-## About this site：
-　This site is build by jekyll and Github pages. You can find some of my tiny works in school projects and short write-ups here.
+## Update：
+　Add cv and github link on frontpage.
