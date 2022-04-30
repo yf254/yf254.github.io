@@ -3,7 +3,7 @@ layout: page
 title: About Me 
 ---
 
-Hi，I am Yuxiao, an <strong>ORIE</strong> student at Cornell University. <a href="yf254.github.io/Yuxiao Feng Resume (1).pdf" target="_blank">PDF.</a><br>
+Hi，I am Yuxiao, an <strong>ORIE</strong> student at Cornell University. <a href="/Yuxiao Feng Resume (1).pdf" target="_blank">Download Resume</a><br>
 I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Statistics</strong>.<br>
 I am：
 >* Getting hands dirty with Python, Java and MySql;
