@@ -10,6 +10,8 @@ Finance Related:
 <p>
 <a href="/5630">Is Fama French 5 Factor Model Better than the 3 Factor One?</a>
 <p>
+<a href="/A-Novel-Graph-Based-Factor-Model-in-the-Application-of-Markowitz-Mean-Variance-Portfolio-Optimizatio">A Novel Graph-Based Factor Model in the Application of Markowitz Mean-Variance Portfolio Optimizatio</a>
+<p>
 Machine Learning Related:
 <p>
 <a href="/RMSC4112">Credit Risk Analysis using Machine Learning and Deep Learning Models</a><a href="https://github.com/yf254/4112-Project">github</a>
@@ -19,12 +21,6 @@ Machine Learning Related:
 Market Related:
 <p>
 <a href="/Policy and Market Trend under COVID-19">Policy and Market Trend under COVID-19</a>
-<p>
-Write-ups:
-<p>
-<a href="/Merging_Network">Methodology for Dynamic Apporach Merging Network Theory and Credit Risk Tech</a>
-<p>
-<a href="/Survival_using_DL_with_Medical_Imaging">Survival Analysis using Deep Learning and Medical Imaging</a>
 <p>
 <br>
 <p>
