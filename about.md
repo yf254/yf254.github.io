@@ -3,12 +3,12 @@ layout: page
 title: About Me 
 ---
 
-Hi，I am Yuxiao, an <strong>ORIE</strong> student at Cornell University. <a href="/Yuxiao Feng Resume (1).pdf" target="_blank">Download Resume</a><br>
-I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Statistics</strong>.<br>
+Hi，I am Yuxiao, a <strong>Financial Engineering</strong> student at Cornell University. <a href="/Yuxiao Feng_Resume_0622.pdf" target="_blank">Download Resume</a><br>
+I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Risk Management Science (Risk Analytics)</strong>.<br>
 I am：
 >* Getting hands dirty with Python, Java and MySql;
 >* Familiar with machine learning and eager to explore more;
->* Interested in trading algorithm and game design.
+>* Interested in trading algorithm design.
 
 <p>
 <p>
