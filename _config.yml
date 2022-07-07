@@ -41,7 +41,7 @@ nav:
 #    - {title: Short Essays, descriptin: essay, url:'/essay'} 
  #   - {title: Posts, description: tags, url: '/tags'}      
     - {title: About Me, description: about, url: '/about'}      
-    - {title: CV, description: Resume, url: '/Resume_Yuxiao .pdf'}    
+    - {title: CV, description: Resume, url: '/Resume_Yuxiao Feng.pdf'}    
     - {title: Github, description: github, url: 'https://github.com/yf254'}    
     
 
