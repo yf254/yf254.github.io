@@ -3,7 +3,7 @@ layout: page
 title: About Me 
 ---
 
-Hi，I am Yuxiao, a <strong>Financial Engineering</strong> student at Cornell University. <a href="/Resume_Yuxiao .pdf" target="_blank">Download Resume</a><br>
+Hi，I am Yuxiao, a <strong>Financial Engineering</strong> student at Cornell University. <a href="/Resume_Yuxiao Feng.pdf" target="_blank">Download Resume</a><br>
 I did my undergradute study at the Chinese University of Hong Kong, majoring in <strong>Risk Analytics</strong>.<br>
 I am：
 >* Getting hands dirty with Python, Java and MySql;
