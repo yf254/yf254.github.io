@@ -10,7 +10,8 @@ I am：
 >* Proficient in Python, SQL and R;
 >* Experienced in data analysis, data mining and machine learning;
 >* Interested in algorithm and model design and have experience in creative anomaly detection model design;
->* Eager to explore more! 
+>* Passionate in portfolio optimization, factor research and algorithmic trading;
+>* Eager to explore more!
 
 <p>
 <p>
@@ -18,11 +19,11 @@ I am：
 I have a strong executive ability, adapted well to fast-pace enviroment, and can work efficiently under pressure.
 
 <p>
-Enjoyed working in teams, as well as deliver independently.
+Enjoyed working in teams, as well as deliver independently. 
 <p>
   
 <p>
-In the spare time, I am an amateur video editor (<a href="https://space.bilibili.com/201470482?from=search&seid=67572594118373327&spm_id_from=333.337.0.0">Bilibili: Ashes339</a>), a newbie figure skater, and a piano player. :D
+In the spare time, I am an amateur video editor (<a href="https://space.bilibili.com/201470482?from=search&seid=67572594118373327&spm_id_from=333.337.0.0">Bilibili: Ashes339</a>), a newbie figure skater, a piano player, and a board game lover.:D
 <p>
 
 
